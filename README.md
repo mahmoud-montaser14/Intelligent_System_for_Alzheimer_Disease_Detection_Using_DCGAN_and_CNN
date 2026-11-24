@@ -3,6 +3,8 @@
 A web application that classifies brain MRI scans into four stages of Alzheimer's disease. A DCGAN generates extra training images to fix class imbalance and overfitting, a CNN does the classification, and an autoencoder rejects images that are not MRI scans.
 
 > **Disclaimer:** This is a research and learning project. It is not a medical device and must not be used for diagnosis.
+>
+> **Kaggle Repo:** https://www.kaggle.com/code/detty10/intelligent-system-for-alzheimer-disease-detection
 
 ## Overview
 
